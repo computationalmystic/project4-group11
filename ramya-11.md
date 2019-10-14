@@ -27,10 +27,15 @@ Display messages either says "complete" or "error"
 Modify TA details
 ### User interface
 Set up database storing all TA's information
+
 Search specific TA by name or id
+
 Add/Remove TA to a specific class by setting value for attributes in Class "TA" and "Course"
+
 Create Assignment
+
 Update the assignment on the web page
+
 Send a notification to students 
 
 # "TA" class
