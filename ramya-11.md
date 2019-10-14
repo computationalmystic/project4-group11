@@ -23,7 +23,7 @@ Check file uploading status
 Display messages either says "complete" or "error"
 
 
-# "Instructor" Class:
+# "Professor" Class:
 Modify TA details
 ### User interface
 Set up database storing all TA's information
