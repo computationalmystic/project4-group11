@@ -12,7 +12,9 @@ Create Class "Course" -- SubClass 1. Sections 2. Assignments
 
 # "Student" Class:
 Login/Logout:
+
 Set up database used to store user info
+
 ### User Interface
 File upload
 Set up file storage
@@ -40,10 +42,15 @@ Send a notification to students
 
 # "TA" class
 Collect Assignments
+
 ### User interface
-Be able to download submitted files
+Be able to download submitted files 
+
 Check the status of downloading
+
 Display message says either "Complete" or "Error"
+
 Grade Assignments:
+
 Be able to enter a grade and comment for an assignment of a student
 
