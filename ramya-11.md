@@ -17,11 +17,17 @@ Set up database used to store user info
 
 ### User Interface
 File upload
+
 Set up file storage
+
 Set up web server
+
 Upload Assignment
+
 Check if the type of file is allowed
+
 Check file uploading status
+
 Display messages either says "complete" or "error"
 
 
