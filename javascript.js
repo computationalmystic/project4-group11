@@ -1,4 +1,3 @@
-
 var urlsmall = "http://augur.osshealth.io:5000/api/unstable/repo-groups/24/repos/21625/pull-requests-merge-contributor-new";
 var url = "http://augur.osshealth.io:5000/api/unstable/repos";            
 var Contributors;
@@ -44,9 +43,9 @@ function displayTable(combined){
         var text = document.createElement("p");
 //        text.innerHTML = 
         bar.innerHTML = combined[i].count;
-        list.innerHTML = "repo: " + combined[i].id;
+        list.innerHTML = "Repo: " + combined[i].id;
         //this sets the color of the boxes and the width
-        bar.style = "background: " + randDarkColor() + "; width: " + combined[i].count/4 + "px;";
+        bar.style = "background: " + randDarkColor() + "; width: " + ((combined[i].count/4)+15) + "px;" + "border-radius: 10px;";
 //        list.append(text);
         leftcolumn.appendChild(list);
         
@@ -69,4 +68,3 @@ function randDarkColor() {
   }
   return rgb;
 }
-
