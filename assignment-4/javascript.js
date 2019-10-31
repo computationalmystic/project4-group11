@@ -36,7 +36,6 @@ function displayTable(combined){
         var list = document.createElement("div");
         list.setAttribute("id", "tablelist");        
         list.innerHTML = combined[i].id;
-//        list.setAttribute("onclick", "setTable()");
         leftcolumn.appendChild(list);
     }   
 }
