@@ -11,5 +11,7 @@ This visualization tool counts the number of matching keys inside a JSON file.<b
 
 ### Assesment of team member skills:
 Jake and Matt were the only ones to work on this assignment. We scheduled times to meet and do the assignment. Ramya aparently looked at the google doc during that time since we were notified that she came online. but made no communication or contributions to the group. 
-  Jake wrote the javascript. Designed the table and the data to be displayed from the repo. Matt did some styling to the table but it was removed as I had to update the table to meet new requirements and the styling was removed. 
+  Jake wrote the javascript. Designed the table and the data to be displayed from the repo. Matt did some styling to the table but it was removed as I had to update the table to meet new requirements and the styling was removed. <br><br>
+ 
+As far as assesment of team skills. Matt and Jake are both proficient at making web pages as we both took 2830 but our skills were still quite limited. Ramya skill is unknown since she did not contribute. 
   
